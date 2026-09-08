@@ -157,7 +157,7 @@
         <input type="text" placeholder="Your college name" required>
 
         <label>Course & Branch</label>
-        <input type="text" placeholder="B.Tech - Computer Science">
+        <input type="text" placeholder="B.Tech - Computer Science" required>
 
         <label>Year of Study</label>
         <select required>
